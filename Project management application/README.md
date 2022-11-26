@@ -3,11 +3,11 @@
 ## Prerequisites
 
 - MongoDB: 
-1) Register on mongodb.com and create Shared Claster. 
+1) Register on mongodb.com and create Shared Cluster. 
 2) Create a user for database (userName & password)
 3) IP Access List - add 0.0.0.0
-4) Click "Connect" button and select "Connetct your application"
-5) Copy claster info from connection string. By default - "claster0.xxxxxx"
+4) Click "Connect" button and select "Connect your application"
+5) Copy cluster info from connection string. By default - "cluster0.xxxxxx"
 
 ## Downloading
 
