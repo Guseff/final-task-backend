@@ -17,7 +17,7 @@ cd back-manager-app
 ```
 
 ## Connect to your DataBase on MongoDB
-- open src/index.ts. In mongoose.connect method replace ${} by userName, Password and ClasterInfo from Prerequisites
+- open src/index.ts. In mongoose.connect method replace ${} by userName, Password and ClusterInfo from Prerequisites
 
 ## Run Xeroku
 Run commands
